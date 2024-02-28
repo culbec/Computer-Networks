@@ -1,0 +1,8 @@
+{
+    "cmake.configureOnOpen": false,
+    "files.associations": {
+        "ip.h": "c",
+        "inet.h": "c",
+        "stdlib.h": "c"
+    }
+}
